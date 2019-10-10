@@ -9,15 +9,7 @@ void main()
 
 {
     int i;
-
-
-
-
-
-
-
-
-    for(i=255;i>=0;i--)
+  for(i=255;i>=0;i--)
     {
         printf("%d =%c \n", i,i );
         if (i%20==0)
